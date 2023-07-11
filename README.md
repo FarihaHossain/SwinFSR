@@ -6,12 +6,6 @@
 
 # Citation
 ```
-@article{hossain2021ecg,
-  title={ECG-ATK-GAN: Robustness against Adversarial Attacks on ECG using Conditional Generative Adversarial Networks},
-  author={Hossain, Khondker Fariha and Kamran, Sharif Amit and Ma, Xingjun and Tavakkoli, Alireza},
-  journal={arXiv preprint arXiv:2110.09983},
-  year={2021}
-}
 ```
 
 
