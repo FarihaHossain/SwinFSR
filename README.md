@@ -1,6 +1,6 @@
 # SwinFSR
 
-# MICCAI2022 ECG-ATK-GAN
+# MICCAI2023 Swin-FSR
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-This code is for our paper "evolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology" which has been accpeted in MICCAI 2023.
+This code is for our paper "Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology" which has been accepted in MICCAI 2023.
 
 ![](Fig1.png)
 
