@@ -17,10 +17,10 @@ This code is for our paper "Revolutionizing Space Health (Swin-FSR): Advancing S
 
 ## Pre-requisite
 - Ubuntu 18.04 / Windows 7 or later
-- NVIDIA Graphics car
+- NVIDIA Graphics card
 
 
-## Installation Instruction for Ubuntu
+## Installation Instruction
 - Install Monai and all the dependencies
 ```
 pip install 'monai[all]'
