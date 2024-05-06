@@ -1,5 +1,3 @@
-# SwinFSR
-
 [![License](https://img.shields.io/badge/license-NC-blue.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/paper-arXiv.2312.06709-blue.svg)](https://arxiv.org/abs/2308.06332)
 [![Paper](https://img.shields.io/badge/paper-MICCAI.2023-green.svg)](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_65)
