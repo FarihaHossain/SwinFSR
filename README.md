@@ -1,8 +1,8 @@
 # SwinFSR
 
 [![License](https://img.shields.io/badge/license-NC-blue.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/paper-arXiv.2312.06709-blue.svg)](https://arxiv.org/abs/2312.06709)
-[![Paper](https://img.shields.io/badge/paper-MICCAI.2023-green.svg)](https://arxiv.org/abs/2201.01266)
+[![Paper](https://img.shields.io/badge/paper-arXiv.2312.06709-blue.svg)](https://arxiv.org/abs/2308.06332)
+[![Paper](https://img.shields.io/badge/paper-MICCAI.2023-green.svg)](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_65)
 
 # \[MICCAI 2023\] SwinFSR: Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology
 
@@ -15,7 +15,7 @@ Swin-FSR is a groundbreaking model designed to address the challenges of super-r
 
 
 <div align="left">
-  <img src="Fig1.png" width="768"/>
+  <img src="Fig1.png" width="900"/>
 </div>
 
 
