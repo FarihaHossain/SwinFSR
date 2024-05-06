@@ -18,14 +18,23 @@ Swin-FSR is a groundbreaking model designed to address the challenges of super-r
 
 
 <div align="left">
-  <img src="Fig1.png" width="900"/>
+  <img src="Figure/Fig1(4).png" width="1000"/>
 </div>
 
 ## Results
+### Visulaze-Output:
+<div align="left">
+  <img src="Figure/Fig2(4).png" width="1000"/>
+</div>
 
-### Model stats and summarization metrics:
-
-
+### Model stats:
+<div align="left">
+  <img src="Figure/Fig4(2).png" width="1000"/>
+</div>
+### Clinical Assessment:
+<div align="left">
+  <img src="Figure/clinicalAssessment.png" width="1000"/>
+</div>
 
 ## Citing SwinFSR
 
