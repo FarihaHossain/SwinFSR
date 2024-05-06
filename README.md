@@ -27,7 +27,7 @@ _Detail_Coming Soon_
 
 
 ## Results
-### Visulaze-Output:
+### Visualize-Output:
 Qualitative comparison of (×2) image reconstruction using different SR methods on AMD, PALM, G1020 and SANS dataset. The green rectangle is the zoomed-in region. The rows are for the AMD, PALM and SANS datasets. Whereas, the column is for each different models: SwinFSR, SwinIR, RCAN and ELAN.
 <div align="left">
   <img src="Figure/Fig2(4).png" width="700"/>
