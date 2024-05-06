@@ -1,11 +1,8 @@
 # SwinFSR
 
-# MICCAI2023 Swin-FSR
-
-[![Star on GitHub](https://img.shields.io/github/stars/NVlabs/RADIO.svg?style=social)](https://github.com/NVlabs/RADIO/stargazers)
 [![License](https://img.shields.io/badge/license-NC-blue.svg)](LICENSE)
 [![Paper](https://img.shields.io/badge/paper-arXiv.2312.06709-blue.svg)](https://arxiv.org/abs/2312.06709)
-[![Paper](https://img.shields.io/badge/paper-CVPR.2024-blue.svg)](https://arxiv.org/abs/2312.06709)
+[![Paper](https://img.shields.io/badge/paper-MICCAI.2023-green.svg)](https://arxiv.org/abs/2201.01266)
 
 # \[MICCAI 2023\] SwinFSR: Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology
 
@@ -23,28 +20,28 @@ Swin-FSR is a groundbreaking model designed to address the challenges of super-r
 
 
 
-## Citing RADIO
+## Citing SwinFSR
 
 If you find this repository useful, please consider giving a star and citation:
 
-#### CVPR 2024 Reference:
+#### MICCAI 2023 Reference:
 ```bibtex
-@inProceedings{ranzinger2023amradio,
-  title={AM-RADIO: Agglomerative Visual Foundation Model -- Reduce All Domains Into One},
-  author={Mike Ranzinger and Greg Heinrich and Jan Kautz and Pavlo Molchanov},
-  booktitle={CVPR},
-  year={2024},
+@inproceedings{hossain2023revolutionizing,
+  title={Revolutionizing space health (Swin-FSR): advancing super-resolution of fundus images for SANS visual assessment technology},
+  author={Hossain, Khondker Fariha and Kamran, Sharif Amit and Ong, Joshua and Lee, Andrew G and Tavakkoli, Alireza},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={693--703},
+  year={2023},
+  organization={Springer}
 }
 ```
 
 #### ArXiv Reference:
 ```bibtex
-@misc{ranzinger2023amradio,
-      title={AM-RADIO: Agglomerative Model -- Reduce All Domains Into One},
-      author={Mike Ranzinger and Greg Heinrich and Jan Kautz and Pavlo Molchanov},
-      year={2023},
-      eprint={2312.06709},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{hossain2023revolutionizing,
+  title={Revolutionizing Space Health (Swin-FSR): Advancing Super-Resolution of Fundus Images for SANS Visual Assessment Technology},
+  author={Hossain, Khondker Fariha and Kamran, Sharif Amit and Ong, Joshua and Lee, Andrew G and Tavakkoli, Alireza},
+  journal={arXiv preprint arXiv:2308.06332},
+  year={2023}
 }
 ```
